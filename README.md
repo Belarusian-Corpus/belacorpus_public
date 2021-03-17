@@ -3,7 +3,7 @@ This is a corpus of written texts in Standard Belarusian, published here in .txt
 
 (1) Corpus materials
 
-The corpus comprises 246 text files for a total of 1,535,047 words. The following genres are represented: Fiction; Non-fiction (essais, specialised books); Magazine articles; Newspaper articles; legal texts. All texts have been written in the time frame 1987-2010. (More information the Corpus-materials files). 
+The corpus comprises 246 text files for a total of 1,535,047 words. The following genres are represented: Fiction; Non-fiction (essais, specialised books); Magazine articles; Newspaper articles; legal texts. All texts have been written in the time frame 1987-2010. Please read the Corpus:overview file for a detailed summary of the files contained in the corpus.
 
 (2) Access policy
 
