@@ -1,5 +1,5 @@
 # belacorpus_public
-This is a corpus of written texts in Standard Belarusian, published here in .txt format. The corpus can be accessed for purpouses of scientific research.
+This is a corpus of written texts in Standard Belarusian, published here in .txt format. The corpus can be accessed for purpouses of scientific research. The corpus has been built by Lidia Federica Mazzitelli, now at University of Cologne, during her Ph.D. at the University of Rome "La Sapienza"/ University of Mainz "Johannes Gutenberg" in 2010. 
 
 (1) Corpus materials
 
