@@ -14,6 +14,10 @@ Request format: your name, academic affiliation, statement of research (what res
 
 At the moment, there is no query interface; all texts are downloadable in .txt format and can be searched using a software such as AntConc (https://www.laurenceanthony.net/software/antconc/) or WordSmith.  
 
-(4) Acknowledgments
+(4) Reference
+
+Upon use, please reference the corpus as follows: Mazzitelli, Lidia Federica. 2021. Belacorpus. https://github.com/Belarusian-Corpus. Accessed on: [insert date here]
+
+(5) Acknowledgments
 
 Most texts come from the following sources: Беларуская Палічка/Belaruskaja Palička https://knihi.com/; http://zakanadaustva.narod.ru/; Narodnyja Navini Vicebsk http://news.vitebsk.cc; Rehional'naja Hazeta http://rh.by; Novy Čas  https://novychas.by; Narodnaja Volja https://www.nv-online.info/; Naša Niva https://nn.by; Zvjazda https://zviazda.by/be; Dzejasloŭ http://dziejaslou.by/; Arche https://arche.by/;    
