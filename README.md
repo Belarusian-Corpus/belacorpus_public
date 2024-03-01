@@ -19,4 +19,4 @@ If you use the Belacorpus in published or course materials, I will be grateful t
 Most texts come from the following sources: Беларуская Палічка/Belaruskaja Palička https://knihi.com/; http://zakanadaustva.narod.ru/; Narodnyja Navini Vicebsk http://news.vitebsk.cc; Rehional'naja Hazeta http://rh.by; Novy Čas  https://novychas.by; Narodnaja Volja https://www.nv-online.info/; Naša Niva https://nn.by; Zvjazda https://zviazda.by/be; Dzejasloŭ http://dziejaslou.by/; Arche https://arche.by/;    
 
 (6) Contact
-Lidia Federica Mazzitelli: lfmazzitelligmail.com; lidiafederica.mazzitelli@unior.it
+Lidia Federica Mazzitelli: lfmazzitelli@gmail.com; lidiafederica.mazzitelli@unior.it
